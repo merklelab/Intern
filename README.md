@@ -8,7 +8,7 @@
 * [Learning Git](https://hackernoon.com/understanding-git-fcffd87c15a3)
 * [Starting up with React](https://reactjs.org/tutorial/tutorial.html)
 
-http://mrbool.com/importance-of-code-indentation/29079
-https://www.w3schools.com/html/html5_syntax.asp
-https://github.com/airbnb/javascript
+* http://mrbool.com/importance-of-code-indentation/29079
+* https://www.w3schools.com/html/html5_syntax.asp
+* https://github.com/airbnb/javascript
 
