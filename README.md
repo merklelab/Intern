@@ -12,7 +12,3 @@
   * HTML5 Style Guide and [Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
   * Javascript [Style Guide](https://github.com/airbnb/javascript)
 
-
-dfdf
-
-dfdf
