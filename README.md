@@ -10,3 +10,8 @@
   * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [Starting up with React](https://reactjs.org/tutorial/tutorial.html)
+* Articles:
+  * Importance of [code indentation](http://mrbool.com/importance-of-code-indentation/29079)
+  * HTML5 Style Guide and [Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
+  * Javascript [Style Guide](https://github.com/airbnb/javascript)
+
