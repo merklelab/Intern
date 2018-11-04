@@ -7,8 +7,8 @@
   * React/Javascript/Frontend: [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/)
 * [Learning Git](https://hackernoon.com/understanding-git-fcffd87c15a3)
 * [Starting up with React](https://reactjs.org/tutorial/tutorial.html)
-
-* http://mrbool.com/importance-of-code-indentation/29079
-* https://www.w3schools.com/html/html5_syntax.asp
-* https://github.com/airbnb/javascript
+* Articles:
+  * [Code_Indentation](http://mrbool.com/importance-of-code-indentation/29079)
+  * [Learn_HTML_Syntax](https://www.w3schools.com/html/html5_syntax.asp)
+  * [Learn_JavaScript](https://github.com/airbnb/javascript)
 
